@@ -21,6 +21,7 @@ public class leetocode33 {
         
     }
     public static  int search(int[] nums, int target) {
-        //yet to complete
+        //yet to complete 
+        //sorry 
     }
 }
