@@ -20,7 +20,7 @@ public class leetcode73 {
             for(int j = 0;j < matrix[i].length;j++){
                 if(matrix[i][j] == 0){
                     rowSet.add(i);
-                    colSet.add(i);
+                    colSet.add(j);
                 }
             }
         }
